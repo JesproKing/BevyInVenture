@@ -1,7 +1,7 @@
 # In Venture
+### An Inventory-Focussed Roguelike
 
-An Inventory-Focussed Roguelike
-### Special Thanks to Jan Hohenheim for the amazing Foxtrot-Template
+Special Thanks to Jan Hohenheim for the amazing Foxtrot-Template
 
 ### Updating assets
 
