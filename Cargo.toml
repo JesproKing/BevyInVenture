@@ -1,15 +1,14 @@
 [package]
-authors = ["Jan Hohenheim <jan@hohenheim.ch>"]
-edition = "2021"
-name = "foxtrot"
-version = "0.5.0"
+authors = ["JesproKing"]
+edition = "2023"
+name = "InVenture"
+version = "0.0.1"
 license = "MIT OR Apache-2.0"
 exclude = ["assets/"]
-description = "The all-in-one Bevy 3D game template for desktop."
-repository = "https://github.com/janhohenheim/foxtrot"
-keywords = ["gamedev", "bevy", "template", "game"]
-categories = ["game-development"]
-homepage = "https://janhohenheim.github.io/foxtrot/"
+description = "An Inventory-Focussed Roguelike."
+repository = "https://github.com/JesproKing/BevyInVenture"
+keywords = ["gamedev", "bevy", "roguelike", "inventory"]
+categories = ["game"]
 
 [features]
 default = ["dev"]
